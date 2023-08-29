@@ -1,0 +1,14 @@
+:root {
+    --acent-color: #2196F3;
+    --general-color: #757575;
+    --title-color: #212121;
+}
+a[href= "https://www.youtube.com/"] {
+    color: red;
+ }
+ a[href="https://validator.w3.org/"] {
+    color: red
+ }
+ ul+p {
+    font-size: 24px;
+ }
